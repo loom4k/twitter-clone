@@ -1,10 +1,9 @@
 # Twitter Clone, Forever Shittier
-
-## About
+### About
 
 This as been created as a joke project for me to learn how to work with ElixirLang and Phoenix. It didn't come out as expected but I am still pretty happy with the result of this complete shit.
 
-## Running
+### Running
 
 To start your Phoenix server:
 
